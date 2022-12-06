@@ -8,6 +8,8 @@ foundational learning, solving algorithms.
     2. Set a timer (45 min)
     3. work out solving using pen and paper first
     4. Identify a Coding sandbox to use, to check code after working through to the solution.
+    5. Document problem in current README.md
+    6. Document practice code in current README.md.. (Take a few 👠 👟 👢 steps with me)
     
 ### Exposing 🥴
     I need to fell more comfortable with sharing my thoughts during solving problems.  I often find myself stuck thinking.. Not that it is a bad action. 
