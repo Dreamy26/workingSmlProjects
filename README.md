@@ -10,7 +10,16 @@ foundational learning, solving algorithms.
     4. Identify a Coding sandbox to use, to check code after working through to the solution.
     5. Document problem in current README.md
     6. Document practice code in current README.md.. (Take a few 👠 👟 👢 steps with me)
-    
+
+### Methods to use
+What are the expected values for each 
+I = Input
+O = Output
+E = Edge Cases
+A = Assumptions, are where you gain clarity with the interviewer.
+
+Tip: draw out your understanding
+
 ### Exposing 🥴
     I need to fell more comfortable with sharing my thoughts during solving problems.  I often find myself stuck thinking.. Not that it is a bad action. 
     However, while working with a partner I leave them guessing my next move.  
@@ -23,6 +32,7 @@ foundational learning, solving algorithms.
 
 ### Resources
 [leetCode the Right Way](https://www.linkedin.com/pulse/how-practice-leetcode-problems-right-way-anthony-d-mays/?trackingId=SiVmnY7BTJWj4Pd5G170Pw%3D%3D)
+[ZERO to PASSING YT_vid](https://www.youtube.com/watch?v=J330GEr4sJ0)
 
 ### Exercises that will be worked on
 - Defining and calling a function
