@@ -33,11 +33,21 @@ Tip: draw out your understanding
 ### Resources
 [leetCode the Right Way](https://www.linkedin.com/pulse/how-practice-leetcode-problems-right-way-anthony-d-mays/?trackingId=SiVmnY7BTJWj4Pd5G170Pw%3D%3D)
 [ZERO to PASSING YT_vid](https://www.youtube.com/watch?v=J330GEr4sJ0)
+[C# Tutorial](https://csharp.net-tutorials.com/basics/functions/#:~:text=In%20C%23%2C%20they%20are%20basically%20declared%20like%20this%3A,define%20any%2C%20then%20the%20function%20will%20be%20private.)
 
 ### Exercises that will be worked on
+- Main method
+    - public static void Main(string[] args)
 - Defining/Declaring and calling a function
-    - <visibility (public)> <return type (void, string, int, bool) <name (camelCase)> (<parameters> (string sentence,       string charsss))
+    - <visibility (public)> <return type (void, string, int, bool) <name (camelCase)> (<parameters> (string sentence, string charsss))
+    {
+        string result = sentence + charsss;
+        return result;
+    }
 - Specify different input and output argument types
+    - Console.WriteLine("This string sentence is and OUTPUT!");
+    - string howAboutAnInput;
+        - howAboutAnInput = Console.ReadLine();
 - Iterate over different collections (arrays, lists, sets, strings)
 - Type conversions (how do I convert a char to string, a string to int, etc ...)
 
