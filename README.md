@@ -36,7 +36,7 @@ Tip: draw out your understanding
 
 ### Exercises that will be worked on
 - Defining/Declaring and calling a function
-    - <visibility (public)> <return type (string, int, bool) <name (camelCase)> (<parameters> (string sentence,       string charsss)
+    - <visibility (public)> <return type (string, int, bool) <name (camelCase)> (<parameters> (string sentence,       string charsss))
 - Specify different input and output argument types
 - Iterate over different collections (arrays, lists, sets, strings)
 - Type conversions (how do I convert a char to string, a string to int, etc ...)
