@@ -35,7 +35,8 @@ Tip: draw out your understanding
 [ZERO to PASSING YT_vid](https://www.youtube.com/watch?v=J330GEr4sJ0)
 
 ### Exercises that will be worked on
-- Defining and calling a function
+- Defining/Declaring and calling a function
+    - <visibility (public)> <return type (string, int, bool) <name (camelCase)> (<parameters> (string sentence,       string charsss)
 - Specify different input and output argument types
 - Iterate over different collections (arrays, lists, sets, strings)
 - Type conversions (how do I convert a char to string, a string to int, etc ...)
