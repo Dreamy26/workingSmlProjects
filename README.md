@@ -32,7 +32,9 @@ Tip: draw out your understanding
 
 ### Resources
 [leetCode the Right Way](https://www.linkedin.com/pulse/how-practice-leetcode-problems-right-way-anthony-d-mays/?trackingId=SiVmnY7BTJWj4Pd5G170Pw%3D%3D)
+
 [ZERO to PASSING YT_vid](https://www.youtube.com/watch?v=J330GEr4sJ0)
+
 [C# Tutorial](https://csharp.net-tutorials.com/basics/functions/#:~:text=In%20C%23%2C%20they%20are%20basically%20declared%20like%20this%3A,define%20any%2C%20then%20the%20function%20will%20be%20private.)
 
 ### Exercises that will be worked on
